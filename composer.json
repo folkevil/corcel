@@ -13,9 +13,9 @@
     ],
     "require": {
         "php":  ">=5.4.0",
-        "illuminate/database": ">=5.0.0",
-        "illuminate/contracts": ">=5.0.0",
-        "illuminate/support": ">=5.0.0",
+        "illuminate/database": "*",
+        "illuminate/contracts": "*",
+        "illuminate/support": "*",
         "hautelook/phpass": "0.3.4",
         "thunderer/shortcode": "^0.6.2"
     },
